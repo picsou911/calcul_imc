@@ -110,14 +110,11 @@ form button:hover {
     margin-top: 30px;
     margin-left: 0;
   }
-
-  @media (max-width: 500px) {
-    .input-group {
-      width: 100%;
-    }
-    .input-group input {
-      width: 100%;
-      min-width: auto;
-    }
+  .input-group {
+    width: 100%;
+  }
+  .input-group input {
+    width: 100%;
+    min-width: auto;
   }
 }
